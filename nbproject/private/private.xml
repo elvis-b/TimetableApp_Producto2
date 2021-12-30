@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/model/conexion.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/views/modulos/vistaAltaAsignatura.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/model/schedule.modelo.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/controller/clases.controlador.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/controller/cursos.controlador.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/classes/calendario.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/views/modulos/vistaMisCursos.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/controller/plantilla.controlador.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/ajax/cursos.ajax.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/model/rutas.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/views/modulos/vistaAltaCurso.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/index.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/model/usuarios.modelo.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/views/modulos/vistaEliminarUsuario.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/views/modulos/vistaModificarUsuariosAdmin.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/views/modulos/common/menu.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/controller/schedule.controlador.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/views/modulos/vistaAltaUsuario.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/.htaccess</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/controller/usuarios.controlador.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/views/modulos/vistaAsignaturas.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/ajax/clases.ajax.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/model/eventos.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/model/config.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/controller/profesor.controlador.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/views/modulos/common/head.php</file>
+            <file>file:/C:/xampp/htdocs/timetableproducto2/views/plantilla.php</file>
+        </group>
+    </open-files>
+</project-private>
